@@ -1,0 +1,7 @@
+posisi 80
+<div class="kontak-saya">
+    <p>Kontak saya</p>
+    <a href="#" class="button-dua">hubungi saya</a>
+</div>
+ 
+background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
